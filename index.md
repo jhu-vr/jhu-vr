@@ -19,7 +19,7 @@ Schedule
 
 	Lecture 1: Introduction<br>
 	Overview of VR, current status, applications, opportunity, why need a game engine, basics of UE4 UI. <br>
-	**Slides:** [Course Organization](), [VR Basics]()
+	**Slides:** [Course Organization](https://docs.google.com/presentation/d/1xspm3MhUQbsd4o0ITUP7-gqWT_aF1Ecu_fs_RVocqPw/edit?usp=sharing), [VR Basics](https://docs.google.com/presentation/d/1EJGU6QsQmBWHGgnJ3VteoUi73z4uC6KTf5S8swpemJY/edit?usp=sharing)
 
 	Lecture 2: 3D world layout<br>
 	Construct a 3D virtual world, introduce basic concepts, such as lighting, static mesh.
