@@ -3,9 +3,11 @@ Virtual Reality App Development
 
 A short 2018 intersession course of Johns Hopkins University. This syllabus is tentative and will be adjusted.
 
-Contact: Weichao Qiu (qiuwch at gmail) github.com/qiuwch
+Contact:
+- Weichao Qiu (qiuwch at gmail)
+- Yi Zhang (edwardz.amg at gmail)
 
-Slack team: https://jhu-vr.slack.com
+Slack team: https://jhu-vr.slack.com, register with your jhu.edu email or request an invitation.
 
 Introduction
 ------------
