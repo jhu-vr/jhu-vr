@@ -24,7 +24,8 @@ Schedule
 	**Slides:** [Course Organization](https://docs.google.com/presentation/d/1xspm3MhUQbsd4o0ITUP7-gqWT_aF1Ecu_fs_RVocqPw/edit?usp=sharing), [VR Basics](https://docs.google.com/presentation/d/1EJGU6QsQmBWHGgnJ3VteoUi73z4uC6KTf5S8swpemJY/edit?usp=sharing)
 
 	Lecture 2: 3D world layout<br>
-	Construct a 3D virtual world, introduce basic concepts, such as lighting, static mesh.
+	Construct a 3D virtual world, introduce basic concepts, such as lighting, static mesh.<br>
+	**SLides:** [UE4 basic concepts](https://docs.google.com/presentation/d/1KSNGClZdTFn7Y_48W9fsr86wQSFnRlnfzDH3I-b9QjU/edit?usp=sharing), [Construct a virtual 3D world](https://docs.google.com/presentation/d/1nq07BDw8IDAHz4HAxsC9sGmQ6cixc3FLRzPtmC1Gzpk/edit?usp=sharing)
 
 - Week 2:
 
