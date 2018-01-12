@@ -3,6 +3,8 @@ Virtual Reality App Development
 
 A short 2018 intersession course of Johns Hopkins University. This syllabus is tentative and will be adjusted.
 
+Office hour: Monday and Friday, 1pm - 2pm, Krieger Hall 107
+
 Contact:
 - Weichao Qiu (qiuwch at gmail)
 - Yi Zhang (edwardz.amg at gmail)
