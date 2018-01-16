@@ -31,8 +31,10 @@ Schedule
 
 - Week 2:
 
-	Lecture 3: Basic concepts of a VR app<br>
-	The basic structure of an app, scripting: event, function
+	Lecture 3: Programming basics 1<br>
+	The basic structure of an app, scripting: event, function<br>
+	**Slides:** [Programming basics 1](https://docs.google.com/presentation/d/1MkAUpTh6KD89GsBsfQEFMX5JpPhZWW7cstyFnDsxTTY/edit?usp=sharing), [Grab object app](https://docs.google.com/presentation/d/1tsLrNrGJQvdBR1bncz01CizRXxZCNBHT3yMxD47LU8k/edit?usp=sharing) <br>
+	[Demo binary](FirstPerson_Grab_binary.zip), [Demo uproject](FirstPerson_Grab_uproject.zip)
 
 	Lecture 4: Input<br>
 	Control the characters with keyboard, mouse and touch controller
