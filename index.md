@@ -39,7 +39,7 @@ Schedule
 	Lecture 4: Programming basics 2<br>
 	Control the characters with keyboard, mouse and touch controller <br>
 	**Slides:** [Programming basics 2](https://docs.google.com/presentation/d/12fWLMH7aCjHfPPlig-JWw2q0_2GvS4Ya0Xg6x-ID7BA/edit?usp=sharing) <br>
-	[Demo binary](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Hands_binary.zip), [Hands uproject](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Hands_uproject.zip)
+	[Demo binary](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Hands_binary.zip), [Hands project](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Hands_uproject.zip)
 
 - Week 3:
 
