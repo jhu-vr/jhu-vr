@@ -34,18 +34,20 @@ Schedule
 	Lecture 3: Programming basics 1<br>
 	The basic structure of an app, scripting: event, function<br>
 	**Slides:** [Programming basics 1](https://docs.google.com/presentation/d/1MkAUpTh6KD89GsBsfQEFMX5JpPhZWW7cstyFnDsxTTY/edit?usp=sharing), [Grab object app](https://docs.google.com/presentation/d/1tsLrNrGJQvdBR1bncz01CizRXxZCNBHT3yMxD47LU8k/edit?usp=sharing), [Fast Forward U overview](FFU-Overview-Slides.pdf) <br>
-	[Demo binary](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Grab_binary.zip), [Demo uproject](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Grab_uproject.zip)
+	[Demo binary](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Grab_binary.zip), [Grab project](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Grab_uproject.zip)
 
 	Lecture 4: Programming basics 2<br>
 	Control the characters with keyboard, mouse and touch controller <br>
 	**Slides:** [Programming basics 2](https://docs.google.com/presentation/d/12fWLMH7aCjHfPPlig-JWw2q0_2GvS4Ya0Xg6x-ID7BA/edit?usp=sharing) <br>
-	[Demo binary](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Hands_binary.zip), [Demo uproject](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Hands_uproject.zip)
+	[Demo binary](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Hands_binary.zip), [Hands uproject](https://github.com/jhu-vr/jhu-vr.github.io/blob/master/FirstPerson_Hands_uproject.zip)
 
-- Week 3: TBA
+- Week 3:
 
-	Lecture 5: Reward<br>
+	Lecture 5: Animation and VR input device<br>
+	The fundamental concepts of the animation system and how to use them. How to use VR controller as input device.<br>
+	**Slides** [Animation](https://docs.google.com/presentation/d/18abhWf4gK3en0hnOk_ulxRPm7IS3bm5H_z5hP4_QrtI/edit?usp=sharing), [VR input device](https://docs.google.com/presentation/d/1Yk4hgj8xMparHGT_2OLZrzGTeedGeyqtqlBJTcHDd_8/edit?usp=sharing)
 
-	Lecture 6: Animation<br>
+	Lecture 6: Reward, HUD, GameFramework, QA
 
 Assignment
 ----------
