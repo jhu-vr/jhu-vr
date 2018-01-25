@@ -53,7 +53,7 @@ Schedule
 Assignment
 ----------
 
-Assignments are optional but can be chosen from
+Assignments ~~are optional but~~ can be chosen from
 - An essay about a VR application you want to create
 - A simple VR project demonstrating what you learnt from this course, or a team project creating a small VR app
 
