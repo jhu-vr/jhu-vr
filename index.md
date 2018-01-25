@@ -47,7 +47,8 @@ Schedule
 	The fundamental concepts of the animation system and how to use them. How to use VR controller as input device.<br>
 	**Slides** [Animation](https://docs.google.com/presentation/d/18abhWf4gK3en0hnOk_ulxRPm7IS3bm5H_z5hP4_QrtI/edit?usp=sharing), [VR input device](https://docs.google.com/presentation/d/1Yk4hgj8xMparHGT_2OLZrzGTeedGeyqtqlBJTcHDd_8/edit?usp=sharing)
 
-	Lecture 6: Reward, HUD, GameFramework, QA
+	Lecture 6: Reward, HUD, GameFramework, QA<br>
+	**Slides** [Game Framework](https://docs.google.com/presentation/d/1tMRN75ES_k6WcUQgFBPsmDZhu5X3m5MG-vKzRDqYmDQ/edit?usp=sharing), [Review](https://docs.google.com/presentation/d/1gt2DJsyvRDZkPL79CCpVmA1-hu0RdxNbR1xDz5WrA4w/edit?usp=sharing)
 
 Assignment
 ----------
