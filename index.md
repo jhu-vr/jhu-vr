@@ -6,8 +6,8 @@ A short 2018 intersession course of Johns Hopkins University. This syllabus is t
 Office hour: Monday and Friday, 1pm - 2pm, Krieger Hall 107
 
 Contact:
-- Weichao Qiu (qiuwch at gmail)
-- Yi Zhang (edwardz.amg at gmail)
+- Instructor: Weichao Qiu (qiuwch at gmail)
+- Assistant: Yi Zhang (edwardz.amg at gmail)
 
 Slack team: https://jhu-vr.slack.com, register with your jhu.edu email or request an invitation.
 
